@@ -1,4 +1,3 @@
-./backend/src/tasks/weights/arcface_r100.pth
-./backend/src/tasks/weights/face_detect.pt
-./backend/src/tasks/weights/scrfd_2.5g_bnkps.onnx
-
+/backend/src/tasks/weights/arcface_r100.pth
+/backend/src/tasks/weights/face_detect.pt
+/backend/src/tasks/weights/scrfd_2.5g_bnkps.onnx
