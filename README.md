@@ -1,5 +1,3 @@
 Tải file :
 
-- scrfd_2.5g_bnkps.onnx
-- face_detect.pt
-- arcface_r100.pth
+- https://drive.google.com/drive/folders/1joL4t67_3BQujdwD-35Oa2esgjnrH8SA?hl=vi
